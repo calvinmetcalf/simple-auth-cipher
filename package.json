@@ -1,0 +1,25 @@
+{
+  "name": "simple-auth-cipher",
+  "version": "1.0.0",
+  "description": "a simple auth cipher",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/calvinmetcalf/simple-auth-cipher.git"
+  },
+  "keywords": [
+    "auth-cipher",
+    "cipher",
+    "crypto",
+    "hmac"
+  ],
+  "author": "Calvin Metcalf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calvinmetcalf/simple-auth-cipher/issues"
+  },
+  "homepage": "https://github.com/calvinmetcalf/simple-auth-cipher"
+}
